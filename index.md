@@ -182,7 +182,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
   * [百度网盘](https://pan.baidu.com/s/13SA-sMbEQbzTNsKK-hxafw) 提取码：`vuxd`
 
 * (12.1.0) 12.0、12.1 的激活工具
-  * [Wolfram Mathematica 12 Key Generator Online](https://ibugone.com/blog/2019/05/mathematica-keygen/)
+  * [Wolfram Mathematica 12 Key Generator Online](https://ibugone.com/blog/2019/05/mathematica-keygen/) 激活码无法激活请尝试关闭浏览器的自动翻译功能
   * [mathematica-keygen](https://www.npmjs.com/package/mathematica-keygen)
 
 ### Mathematica 12.0
